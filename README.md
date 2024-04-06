@@ -1,4 +1,4 @@
-#Gerado-de-senha
+#Gerador-de-senha
 
 
 
